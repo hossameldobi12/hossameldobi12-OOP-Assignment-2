@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../PatternsLab/PatternsLab.csproj" />
+  <Project Path="PatternsLab.Runner.csproj" />
+</Solution>
